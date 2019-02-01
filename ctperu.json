@@ -1,14 +1,21 @@
-[
+{
 
-"Come to Peru",
-    
-     [ 
-      "cusco"
-    ],
-    [
-      "ancash"
+"blog" : "Come to Peru",
+"about" : "enciende la llama de tu aventura.",
+"cities" : [
+    {
+      "cityName" : "cusco",
+      "place" : "Salineras de Maras, ",
+      "description" : "las miles de piscinas poco profundas llenas de agua salada, están excavadas en la ladera de la Montaña Qaqawiñay, a 46 km de la Ciudad del Cusco, en el Valle de Urubamba. Solo hay 4 lugares en el mundo de donde se puede extraer sal rosada y Maras es uno de ellos.",
+      "embajador" : "Embajadora @dayastp"
+    },
+    {
+      "cityName" : "ancash",
+      "place" : "Laguna Paron, ",
+      "description" : "Uno de los lugares más hermosos y fotogénicos que he conocido hasta el momento en mi Perú es la increíble Laguna Parón. Es genial por donde lo mires.. Una magia que te envuelve desde que llegas...y no olvides realizar el pequeño trekking a la parte más alta.. Que será un pequeño reto con una gran recompensa.",
+      "embajador" : "Embajador @jordantrek"
+    }
+
     ]
 
-  
-
-]
+}
