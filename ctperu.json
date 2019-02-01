@@ -1,8 +1,6 @@
-{
+[
 
-"blog" : "Come to Peru",
-"about" : "enciende la llama de tu aventura.",
-"cities" : [
+"Come to Peru",
     {
       "cityName" : "cusco",
       "place" : "Salineras de Maras, ",
@@ -18,4 +16,4 @@
 
     ]
 
-}
+]
