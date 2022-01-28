@@ -1,89 +1,16 @@
 {
-  "blog" : "Come to Peru",
-  "about" : "Enciende tu llama por la aventura.",
-  "cities" : [
+    "blogs": [
       {
-        "cityName" : "cusco",
-        "place" : "Salineras de Maras, ",
-        "description" : "las miles de piscinas poco profundas llenas de agua salada, están excavadas en la ladera de la Montaña Qaqawiñay, a 46 km de la Ciudad del Cusco, en el Valle de Urubamba. Solo hay 4 lugares en el mundo de donde se puede extraer sal rosada y Maras es uno de ellos.",
-        "image" : "https://kusicool.com/myimages/sample1.jpg",
-        "embajador" : "dayastp",
-        "gender" : "embajadora",
-        "id" : 1
+        "title": "My First Blog",
+        "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+        "author": "mario",
+        "id": 1
       },
       {
-        "cityName" : "ancash",
-        "place" : "Laguna Paron, ",
-        "description" : "Uno de los lugares más hermosos y fotogénicos que he conocido hasta el momento en mi Perú es la increíble Laguna Parón. Es genial por donde lo mires.. Una magia que te envuelve desde que llegas...y no olvides realizar el pequeño trekking a la parte más alta.. Que será un pequeño reto con una gran recompensa.",
-        "image" : "https://kusicool.com/myimages/sample2.jpg",
-        "embajador" : "jordantrek",
-        "gender" : "embajador",
-        "id" : 2
-      },
-      {
-        "cityName" : "junin",
-        "place" : "Rio Paucartambo, ",
-        "description" : "El río Paucartambo (arriba) que viene desde Cerro de Pasco y el río Chanchamayo (izquierda) se unen y forman el río Perené (derecha). En Puerto Prado se une al río Ene y forma el Río Tambo. Fácil de llegar desde La Merced o Pichanaki.",
-        "image" : "https://kusicool.com/myimages/sample3.jpg",
-        "embajador" : "frankperuchoviajero",
-        "gender" : "embajador",
-        "id" : 3
-      },
-      {
-        "cityName" : "Lima",
-        "place" : "Chancay, ",
-        "description" : "Y nos fuimos a Chancay por segunda vez y la pasamos ¡genial! Siempre he dicho que se debe volver al lugar donde fuiste feliz. Así que, para llegar a este bonito lugar tienes que ir hasta Acho en Rimac y tomar los Z bus que te cobran 8 soles. Al llegar al paradero de Chanchay, tomar una moto que te cobra S/ 2.00 soles hasta la plaza.",
-        "image" : "https://kusicool.com/myimages/sample4.jpg",
-        "embajador" : "exploringwithshel",
-        "gender" : "embajadoras",
-        "id" : 4
-      },
-      {
-        "cityName" : "ucayali",
-        "place" : "Pucallpa, ",
-        "description" : "Si aún no conoces la selva, como era mi caso, Pucallpa es una muy buena opción... Un viaje de imprevisto, el calor de la selva, su comida y su gente dan como resultado un destino que no te puedes perder. Conoce la selva desde dentro y querrás volver siempre!",
-        "image" : "https://kusicool.com/myimages/sample5.jpg",
-        "embajador" : "alonsogf26",
-        "gender" : "embajador",
-        "id" : 5
-      },
-      {
-        "cityName" : "lima",
-        "place" : "Acochaca, ",
-        "description" : "Anímense amigos a explorar nuestro Perú. Nosotros nos aventuramos a realizar una caminata en Canta, así fue como llegamos al pueblo de Santa Rosa de Acochaca y campamos con esta vista maravillosa.",
-        "image" : "https://kusicool.com/myimages/sample6.jpg",
-        "embajador" : "travelersandlovers",
-        "gender" : "embajadoras",
-        "id" : 6
-      },
-      {
-        "cityName" : "la libertad",
-        "place" : "Wiracochapampa, ",
-        "description" : "Camino a las cataratas de Wiracochapampa, ubicado a 1 hora de Huamachuco caminando, se puede apreciar diversidad de paisajes y horizontes.",
-        "image" : "https://kusicool.com/myimages/sample7.jpg",
-        "embajador" : "chayosantos_x",
-        "gender" : "embajador",
-        "id" : 7
-      },
-      {
-        "cityName" : "Lima",
-        "place" : "Nevado Ranjuy, ",
-        "description" : "El nevado Rajuntay está tan cerca de Lima que no puedes perder la experiencia de conocerlo e iniciarte en el turismo de aventura. Es que Perú lo tiene todo y no tienes que ir muy lejos para descubrirlo.",
-        "image" : "https://kusicool.com/myimages/sample8.jpg",
-        "embajador" : "alonsogf26",
-        "gender" : "embajador",
-        "id" : 8
-      },
-      {
-        "cityName" : "arequipa",
-        "place" : "Wiracochapampa, ",
-        "description" : "La leyenda cuenta que sobre la zona donde hoy se aprecia el bosque de piedras, cayó un diluvio. Casas, plazas, animales, trenes y hasta aviones del imaginario prehistórico quedaron convertidos en piedra. Imata se encuentra a 4 500 m.s.n.m. El viaje hasta el lugar desde la ciudad de Arequipa, toma entre 90 y 120 minutos.",
-        "image" : "https://kusicool.com/myimages/sample9.jpg",
-        "embajador" : "viajaconmigo.peru",
-        "gender" : "embajadores",
-        "id" : 9
+        "title": "Opening Party!",
+        "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+        "author": "yoshi",
+        "id": 2
       }
-  
-      ]
-  
+    ]
   }
